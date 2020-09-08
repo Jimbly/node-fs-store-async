@@ -3,6 +3,8 @@
 tests/*
 test_data.json
 example.js
+example_data.json
+example_data.json.*
 .jshintrc
 .eslintrc
 .editorconfig
