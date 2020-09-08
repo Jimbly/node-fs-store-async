@@ -1,0 +1,25 @@
+{
+  "name": "fs-store-async",
+  "version": "0.3.2",
+  "description": "Async interface on node-fs-store",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Jimbly/node-fs-store-async.git"
+  },
+  "keywords": [
+    "fs",
+    "file",
+    "disk",
+    "store",
+    "fs-store",
+    "file-store",
+    "cache"
+  ],
+  "author": "Jimb Esser (https://github.com/Jimbly/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jimbly/node-fs-store-async/issues"
+  },
+  "homepage": "https://github.com/Jimbly/node-fs-store-async"
+}
